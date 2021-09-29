@@ -1,3 +1,3 @@
-# Test app
+# Audio Frequency Waterfall
 
-See https://neuroforlunch.github.io/test/
+See https://neuroforlunch.github.io/waterfall/
