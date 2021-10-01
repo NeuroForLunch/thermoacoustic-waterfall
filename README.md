@@ -1,3 +1,3 @@
-# Audio Frequency Waterfall
+# Thermoacoustic Waterfall
 
-See https://neuroforlunch.github.io/waterfall/
+See https://neuroforlunch.github.io/thermoacoustic-waterfall/
