@@ -5,3 +5,6 @@ Many voltage-gated channels, for example voltage-gated sodium, potassium, and ca
 See https://neuroforlunch.github.io/thermoacoustic-waterfall/
 
 ![](https://raw.githubusercontent.com/NeuroForLunch/thermoacoustic-waterfall/gh-pages/audio_data_channels2.gif)
+
+
+![](https://raw.githubusercontent.com/NeuroForLunch/thermoacoustic-waterfall/gh-pages/blinks_and_vital_signs.png) ![](https://raw.githubusercontent.com/NeuroForLunch/thermoacoustic-waterfall/gh-pages/internal-speech.gif)
