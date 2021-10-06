@@ -42,7 +42,9 @@ define([
     } = import_widget;
 
     const scheduler = new Scheduler();
-    const audioContext = new AudioContext();
+    const audioContext = new AudioContext({
+       sampleRate: 96000,
+     });
     const storage = sessionStorage; // TODO persistent and namespaced-from-other-pages
 
     const selector = new AudioSourceSelector(scheduler, audioContext, navigator.mediaDevices,
